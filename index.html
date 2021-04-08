@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"> 
+       	<meta name="viewport" content="width=device-width, initial-scale=1">
+       	<link rel="stylesheet" type="text/css" href="style.css">
+        <title>Craigslist Events Archive</title>
+
+
+    </head>
+    <body>
+
+
+
+
+
+    <div class="everything">
+
+    	<div class="Main">
+    		<img  src="Events Main Page.svg">
+    	</div>
+    	
+    	
+
+    		<div class="insidemain">
+
+    				<div class="A1">
+    					<img  src="A1.svg">
+    							<div class="map1">
+    							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3158.7068363512935!2d-122.3926106846858!3d37.65609577978125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f784ff40225a7%3A0xc66151899e3831bb!2s494%20Forbes%20Blvd%2C%20South%20San%20Francisco%2C%20CA%2094080!5e0!3m2!1sen!2sus!4v1617835356035!5m2!1sen!2sus" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    							</div>
+    				</div>
+
+    				
+
+
+    				<div class="A2">
+    					<img  src="A2.svg">
+    					<div class="map2">
+    							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.7441631240663!2d-77.01856848464931!3d38.90696537956925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7f386cc8edf%3A0x5a2627dcecaf3e8e!2s1238%204th%20St%20NW%2C%20Washington%2C%20D.C.%2C%20DC%2020001!5e0!3m2!1sen!2sus!4v1617843070759!5m2!1sen!2sus" width="275" height="275" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    							</div>
+    				</div>
+
+    				<div class="A3">
+    					<img  src="A3.svg">
+    					<div class="map3">
+    							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.5846004386244!2d-122.10518618469243!3d37.42329227982496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba1399d305df%3A0x40633ace885ca6d7!2s3921%20Fabian%20Way%2C%20Palo%20Alto%2C%20CA%2094303!5e0!3m2!1sen!2sus!4v1617843583178!5m2!1sen!2sus" width="250" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    							</div>
+    				</div>
+
+    				<div class="A4">
+    					<img  src="A3.svg">
+    				</div>
+
+    				<div class="A5">
+    					<img  src="A3.svg">
+    				</div>
+
+    				<div class="A6">
+    					<img  src="A3.svg">
+    				</div>
+
+    				<div class="A7">
+    					<img  src="A3.svg">
+    				</div>
+
+    				<div class="A8">
+    					<img  src="A3.svg">
+    				</div>
+
+    				<div class="A9">
+    					<img  src="A3.svg">
+    				</div>
+
+    				<div class="A10">
+    					<img  src="A3.svg">
+    				</div>
+
+
+    		
+
+    		
+
+
+
+
+    		
+
+    	</div>
+
+
+
+
+
+    </div>
+
+    <script 
+    		src="https://code.jquery.com/jquery-3.5.1.min.js"
+    		integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+    		crossorigin="anonymous">
+    		</script>
+
+    		<script>
+
+    			$(".A1").on('click', function() {
+    			 	 $(".A1").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A2").on('click', function() {
+    			 	 $(".A2").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A3").on('click', function() {
+    			 	 $(".A3").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A4").on('click', function() {
+    			 	 $(".A4").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A5").on('click', function() {
+    			 	 $(".A5").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A6").on('click', function() {
+    			 	 $(".A6").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A7").on('click', function() {
+    			 	 $(".A7").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A8").on('click', function() {
+    			 	 $(".A8").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A9").on('click', function() {
+    			 	 $(".A9").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			$(".A10").on('click', function() {
+    			 	 $(".A10").removeClass('active');
+    			  	$(this).toggleClass('active1');
+    				});
+
+    			
+
+
+
+    			function initMap() {
+    				 const uluru = { lat: -25.344, lng: 131.036 };
+    				 const map = new google.maps.Map(document.getElementById("map"), {
+          				zoom: 4,
+         				 center: uluru,
+        				});
+    				 const marker = new google.maps.Marker({
+         				position: uluru,
+         				 map: map,
+       					 });
+      					}
+
+    			
+
+
+
+
+
+
+
+
+
+
+    		</script>
+
+
+    		<script
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
+      async
+    ></script>
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
