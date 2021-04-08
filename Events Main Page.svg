@@ -6,23 +6,24 @@
 	.st0{fill:#FFFFFF;}
 	.st1{display:none;}
 	.st2{display:inline;fill:#FFFFFF;stroke:#405FAC;stroke-width:2;}
-	.st3{fill:#D6D5D4;stroke:#405FAC;stroke-width:2;}
+	.st3{fill:#D6D5D4;stroke:#405FAC;stroke-width:5;}
 	.st4{fill:none;stroke:#405FAC;stroke-width:2;}
-	.st5{fill:#010101;}
-	.st6{font-family:'TimesNewRomanPS-BoldMT';}
-	.st7{font-size:99px;}
-	.st8{fill:none;}
-	.st9{fill:#41AA4C;}
-	.st10{font-family:'Arial-BoldMT';}
-	.st11{font-size:22px;}
-	.st12{fill:#405FAC;}
-	.st13{font-size:14px;}
-	.st14{fill:#44AA48;}
-	.st15{font-size:13px;}
-	.st16{font-size:16px;}
-	.st17{enable-background:new    ;}
-	.st18{font-size:62px;}
-	.st19{fill:#41AA49;}
+	.st5{fill:none;stroke:#405FAC;stroke-width:5;}
+	.st6{fill:#010101;}
+	.st7{font-family:'TimesNewRomanPS-BoldMT';}
+	.st8{font-size:99px;}
+	.st9{fill:none;}
+	.st10{fill:#41AA4C;}
+	.st11{font-family:'Arial-BoldMT';}
+	.st12{font-size:22px;}
+	.st13{fill:#405FAC;}
+	.st14{font-size:14px;}
+	.st15{fill:#44AA48;}
+	.st16{font-size:13px;}
+	.st17{font-size:16px;}
+	.st18{enable-background:new    ;}
+	.st19{font-size:62px;}
+	.st20{fill:#41AA49;}
 </style>
 <path class="st0" d="M-1.2,0v2000h2000V0H-1.2z M1793.8,1735.5h-1478V339h1478V1735.5z"/>
 <g>
@@ -41,74 +42,74 @@
 			<path class="st3" d="M1665.7,1862.6c70.7,0,128-56.8,128.9-127.3H203c0.9,70.5,58.3,127.3,128.9,127.3H1665.7z"/>
 			<rect x="203" y="337.9" class="st3" width="113.7" height="1398.2"/>
 			<line class="st4" x1="316.7" y1="337.9" x2="316.7" y2="1732.8"/>
-			<line class="st4" x1="1794.7" y1="339.6" x2="1794.7" y2="1734.5"/>
-			<text transform="matrix(1 0 0 1 512.7711 178.2788)" class="st5 st6 st7">craigslist: SF bay area</text>
+			<line class="st5" x1="1794.7" y1="339.6" x2="1794.7" y2="1734.5"/>
+			<text transform="matrix(1 0 0 1 512.7711 178.2788)" class="st6 st7 st8">craigslist: SF bay area</text>
 		</g>
 	</g>
 </g>
-<rect x="323" y="1740.3" class="st8" width="123.7" height="20.4"/>
-<text transform="matrix(1 0 0 1 322.9914 1756.0146)" class="st9 st10 st11" style="text-decoration: underline;">community</text>
-<rect x="323" y="1767.6" class="st8" width="189.8" height="90.1"/>
-<text transform="matrix(1 0 0 1 322.9914 1777.6582)" class="st12 st10 st13">●lost+found</text>
-<text transform="matrix(1 0 0 1 322.9914 1795.6582)" class="st12 st10 st13">●missed connections</text>
-<text transform="matrix(1 0 0 1 322.9914 1813.6582)" class="st12 st10 st13">●local news</text>
-<text transform="matrix(1 0 0 1 322.9914 1831.6582)" class="st12 st10 st13">●groups</text>
-<text transform="matrix(1 0 0 1 322.9914 1849.6582)" class="st14 st10 st13">●events</text>
-<rect x="207.2" y="449.2" class="st8" width="105.3" height="90.1"/>
-<text transform="matrix(1 0 0 1 238.8773 458.4684)" class="st12 st10 st15" style="text-decoration: underline;">search</text>
-<text transform="matrix(1 0 0 1 223.6773 484.4684)" class="st12 st10 st15" style="text-decoration: underline;">my account</text>
-<text transform="matrix(1 0 0 1 209.9773 510.4684)" class="st12 st10 st15" style="text-decoration: underline;">create a posting</text>
-<text transform="matrix(1 0 0 1 210.3773 536.4684)" class="st12 st10 st15" style="text-decoration: underline;">change location</text>
-<rect x="568.1" y="1767.6" class="st8" width="189.8" height="90.1"/>
-<text transform="matrix(1 0 0 1 568.0642 1777.6582)" class="st12 st10 st13">●automotive</text>
-<text transform="matrix(1 0 0 1 568.0642 1795.6582)" class="st12 st10 st13">●computer</text>
-<text transform="matrix(1 0 0 1 568.0642 1813.6582)" class="st12 st10 st13">●financial</text>
-<text transform="matrix(1 0 0 1 568.0642 1831.6582)" class="st12 st10 st13">●household</text>
-<text transform="matrix(1 0 0 1 568.0642 1849.6582)" class="st12 st10 st13">●legal</text>
-<rect x="813.1" y="1767.6" class="st8" width="189.8" height="90.1"/>
-<text transform="matrix(1 0 0 1 813.1371 1777.6582)" class="st12 st10 st13">●sports</text>
-<text transform="matrix(1 0 0 1 813.1371 1795.6582)" class="st12 st10 st13">●feedback</text>
-<text transform="matrix(1 0 0 1 813.1371 1813.6582)" class="st12 st10 st13">●gaming</text>
-<text transform="matrix(1 0 0 1 813.1371 1831.6582)" class="st12 st10 st13">●outdoor</text>
-<text transform="matrix(1 0 0 1 813.1371 1849.6582)" class="st12 st10 st13">●politics</text>
-<rect x="1058.2" y="1767.6" class="st8" width="189.8" height="90.1"/>
-<text transform="matrix(1 0 0 1 1058.21 1777.6582)" class="st12 st10 st13">●housing wanted</text>
-<text transform="matrix(1 0 0 1 1058.21 1795.6582)" class="st12 st10 st13">●office / commericial</text>
-<text transform="matrix(1 0 0 1 1058.21 1813.6582)" class="st12 st10 st13">●vacation rentals</text>
-<text transform="matrix(1 0 0 1 1058.21 1831.6582)" class="st12 st10 st13">●parking / storage</text>
-<text transform="matrix(1 0 0 1 1058.21 1849.6582)" class="st12 st10 st13">●housing swap</text>
-<rect x="1303.3" y="1767.6" class="st8" width="189.8" height="90.1"/>
-<text transform="matrix(1 0 0 1 1303.2828 1777.6582)" class="st12 st10 st13">●antiques</text>
-<text transform="matrix(1 0 0 1 1303.2828 1795.6582)" class="st12 st10 st13">●automotive</text>
-<text transform="matrix(1 0 0 1 1303.2828 1813.6582)" class="st12 st10 st13">●garage sales</text>
-<text transform="matrix(1 0 0 1 1303.2828 1831.6582)" class="st12 st10 st13">●electronics</text>
-<text transform="matrix(1 0 0 1 1303.2828 1849.6582)" class="st12 st10 st13">●music</text>
-<rect x="1548.4" y="1767.6" class="st8" width="189.8" height="90.1"/>
-<text transform="matrix(1 0 0 1 1548.3557 1777.6582)" class="st12 st10 st13">●accounting + finance</text>
-<text transform="matrix(1 0 0 1 1548.3557 1795.6582)" class="st12 st10 st13">●art / media / design</text>
-<text transform="matrix(1 0 0 1 1548.3557 1813.6582)" class="st12 st10 st13">●customer service</text>
-<text transform="matrix(1 0 0 1 1548.3557 1831.6582)" class="st12 st10 st13">●general labor</text>
-<text transform="matrix(1 0 0 1 1548.3557 1849.6582)" class="st12 st10 st13">●skilled trade</text>
-<rect x="568.1" y="1740.3" class="st8" width="123.7" height="20.4"/>
-<text transform="matrix(1 0 0 1 568.0642 1756.0146)" class="st12 st10 st11" style="text-decoration: underline;">services</text>
-<rect x="813.1" y="1740.3" class="st8" width="123.7" height="20.4"/>
-<text transform="matrix(1 0 0 1 813.1371 1756.0146)" class="st12 st10 st11" style="text-decoration: underline;">discuss</text>
-<rect x="1058.2" y="1740.3" class="st8" width="123.7" height="20.4"/>
-<text transform="matrix(1 0 0 1 1058.21 1756.0146)" class="st12 st10 st11" style="text-decoration: underline;">housing</text>
-<rect x="1303.3" y="1740.3" class="st8" width="123.7" height="20.4"/>
-<text transform="matrix(1 0 0 1 1303.2827 1756.0146)" class="st12 st10 st11" style="text-decoration: underline;">for sale</text>
-<rect x="1548.4" y="1740.3" class="st8" width="123.7" height="20.4"/>
-<text transform="matrix(1 0 0 1 1548.3557 1756.0142)" class="st12 st10 st11" style="text-decoration: underline;">jobs</text>
+<rect x="323" y="1740.3" class="st9" width="123.7" height="20.4"/>
+<text transform="matrix(1 0 0 1 322.9914 1756.0146)" class="st10 st11 st12" style="text-decoration: underline;">community</text>
+<rect x="323" y="1767.6" class="st9" width="189.8" height="90.1"/>
+<text transform="matrix(1 0 0 1 322.9914 1777.6582)" class="st13 st11 st14">●lost+found</text>
+<text transform="matrix(1 0 0 1 322.9914 1795.6582)" class="st13 st11 st14">●missed connections</text>
+<text transform="matrix(1 0 0 1 322.9914 1813.6582)" class="st13 st11 st14">●local news</text>
+<text transform="matrix(1 0 0 1 322.9914 1831.6582)" class="st13 st11 st14">●groups</text>
+<text transform="matrix(1 0 0 1 322.9914 1849.6582)" class="st15 st11 st14">●events</text>
+<rect x="207.2" y="449.2" class="st9" width="105.3" height="90.1"/>
+<text transform="matrix(1 0 0 1 238.8773 458.4684)" class="st13 st11 st16" style="text-decoration: underline;">search</text>
+<text transform="matrix(1 0 0 1 223.6773 484.4684)" class="st13 st11 st16" style="text-decoration: underline;">my account</text>
+<text transform="matrix(1 0 0 1 209.9773 510.4684)" class="st13 st11 st16" style="text-decoration: underline;">create a posting</text>
+<text transform="matrix(1 0 0 1 210.3773 536.4684)" class="st13 st11 st16" style="text-decoration: underline;">change location</text>
+<rect x="568.1" y="1767.6" class="st9" width="189.8" height="90.1"/>
+<text transform="matrix(1 0 0 1 568.0642 1777.6582)" class="st13 st11 st14">●automotive</text>
+<text transform="matrix(1 0 0 1 568.0642 1795.6582)" class="st13 st11 st14">●computer</text>
+<text transform="matrix(1 0 0 1 568.0642 1813.6582)" class="st13 st11 st14">●financial</text>
+<text transform="matrix(1 0 0 1 568.0642 1831.6582)" class="st13 st11 st14">●household</text>
+<text transform="matrix(1 0 0 1 568.0642 1849.6582)" class="st13 st11 st14">●legal</text>
+<rect x="813.1" y="1767.6" class="st9" width="189.8" height="90.1"/>
+<text transform="matrix(1 0 0 1 813.1371 1777.6582)" class="st13 st11 st14">●sports</text>
+<text transform="matrix(1 0 0 1 813.1371 1795.6582)" class="st13 st11 st14">●feedback</text>
+<text transform="matrix(1 0 0 1 813.1371 1813.6582)" class="st13 st11 st14">●gaming</text>
+<text transform="matrix(1 0 0 1 813.1371 1831.6582)" class="st13 st11 st14">●outdoor</text>
+<text transform="matrix(1 0 0 1 813.1371 1849.6582)" class="st13 st11 st14">●politics</text>
+<rect x="1058.2" y="1767.6" class="st9" width="189.8" height="90.1"/>
+<text transform="matrix(1 0 0 1 1058.21 1777.6582)" class="st13 st11 st14">●housing wanted</text>
+<text transform="matrix(1 0 0 1 1058.21 1795.6582)" class="st13 st11 st14">●office / commericial</text>
+<text transform="matrix(1 0 0 1 1058.21 1813.6582)" class="st13 st11 st14">●vacation rentals</text>
+<text transform="matrix(1 0 0 1 1058.21 1831.6582)" class="st13 st11 st14">●parking / storage</text>
+<text transform="matrix(1 0 0 1 1058.21 1849.6582)" class="st13 st11 st14">●housing swap</text>
+<rect x="1303.3" y="1767.6" class="st9" width="189.8" height="90.1"/>
+<text transform="matrix(1 0 0 1 1303.2828 1777.6582)" class="st13 st11 st14">●antiques</text>
+<text transform="matrix(1 0 0 1 1303.2828 1795.6582)" class="st13 st11 st14">●automotive</text>
+<text transform="matrix(1 0 0 1 1303.2828 1813.6582)" class="st13 st11 st14">●garage sales</text>
+<text transform="matrix(1 0 0 1 1303.2828 1831.6582)" class="st13 st11 st14">●electronics</text>
+<text transform="matrix(1 0 0 1 1303.2828 1849.6582)" class="st13 st11 st14">●music</text>
+<rect x="1548.4" y="1767.6" class="st9" width="189.8" height="90.1"/>
+<text transform="matrix(1 0 0 1 1548.3557 1777.6582)" class="st13 st11 st14">●accounting + finance</text>
+<text transform="matrix(1 0 0 1 1548.3557 1795.6582)" class="st13 st11 st14">●art / media / design</text>
+<text transform="matrix(1 0 0 1 1548.3557 1813.6582)" class="st13 st11 st14">●customer service</text>
+<text transform="matrix(1 0 0 1 1548.3557 1831.6582)" class="st13 st11 st14">●general labor</text>
+<text transform="matrix(1 0 0 1 1548.3557 1849.6582)" class="st13 st11 st14">●skilled trade</text>
+<rect x="568.1" y="1740.3" class="st9" width="123.7" height="20.4"/>
+<text transform="matrix(1 0 0 1 568.0642 1756.0146)" class="st13 st11 st12" style="text-decoration: underline;">services</text>
+<rect x="813.1" y="1740.3" class="st9" width="123.7" height="20.4"/>
+<text transform="matrix(1 0 0 1 813.1371 1756.0146)" class="st13 st11 st12" style="text-decoration: underline;">discuss</text>
+<rect x="1058.2" y="1740.3" class="st9" width="123.7" height="20.4"/>
+<text transform="matrix(1 0 0 1 1058.21 1756.0146)" class="st13 st11 st12" style="text-decoration: underline;">housing</text>
+<rect x="1303.3" y="1740.3" class="st9" width="123.7" height="20.4"/>
+<text transform="matrix(1 0 0 1 1303.2827 1756.0146)" class="st13 st11 st12" style="text-decoration: underline;">for sale</text>
+<rect x="1548.4" y="1740.3" class="st9" width="123.7" height="20.4"/>
+<text transform="matrix(1 0 0 1 1548.3557 1756.0142)" class="st13 st11 st12" style="text-decoration: underline;">jobs</text>
 <g>
 	<circle class="st4" cx="258" cy="420.1" r="8.6"/>
 	<line class="st4" x1="262.4" y1="427.4" x2="270.2" y2="441.6"/>
 </g>
-<rect x="229.6" y="358.4" class="st8" width="60.4" height="40.7"/>
-<text transform="matrix(1 0 0 1 235.8375 369.8983)" class="st12 st10 st16" style="text-decoration: underline;">HOME</text>
-<rect x="323.2" y="249.8" class="st8" width="1351.3" height="76.9"/>
-<text transform="matrix(1 0 0 1 323.1997 294.2228)" class="st17"><tspan x="0" y="0" class="st12 st10 st18">community: </tspan><tspan x="368.6" y="0" class="st19 st10 st18">events:</tspan><tspan x="585.7" y="0" class="st12 st10 st18"> april 7th</tspan></text>
+<rect x="229.6" y="358.4" class="st9" width="60.4" height="40.7"/>
+<text transform="matrix(1 0 0 1 235.8375 369.8983)" class="st13 st11 st17" style="text-decoration: underline;">HOME</text>
+<rect x="323.2" y="249.8" class="st9" width="1351.3" height="76.9"/>
+<text transform="matrix(1 0 0 1 323.1997 294.2228)" class="st18"><tspan x="0" y="0" class="st13 st11 st19">community: </tspan><tspan x="368.6" y="0" class="st20 st11 st19">events:</tspan><tspan x="585.7" y="0" class="st13 st11 st19"> april 7th</tspan></text>
 <g>
-	<path class="st12" d="M262.2,675c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
+	<path class="st13" d="M262.2,675c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
 		C299,658.6,282.6,675,262.2,675z M259.1,609.6c-8.7-0.6-19.8,7.7-24.2,18c-4,9.6-1.9,23.5,4.6,28.8c6.2-6.2,12.4-12.4,18.3-18.6
 		c0.6-0.6,0.9-2.2,0.9-3.1c0-4.6,0-9.3,0-13.9C259.1,616.7,259.1,613,259.1,609.6z M285.7,656.1c6.8-6.8,8.4-19.8,4-30
 		c-4.3-9.6-14.9-17-23.2-16.7c0,0.3-0.3,0.3-0.3,0.6c0,8.7,0,17,0,25.7c0,0.6,0.3,1.5,0.9,2.2C273,643.7,279.2,649.9,285.7,656.1z
@@ -116,7 +117,7 @@
 		 M266.2,647.7c0,6.5,0,13,0,19.8c5.6-0.6,10.2-2.5,13.9-5.6C275.5,657,270.9,652.4,266.2,647.7z"/>
 </g>
 <g>
-	<path class="st12" d="M262.2,847.5c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
+	<path class="st13" d="M262.2,847.5c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
 		C299,831.4,282.6,847.8,262.2,847.5z M259.1,782.1c-8.7-0.6-19.8,7.7-24.2,18c-4,9.6-1.9,23.5,4.6,28.8
 		c6.2-6.2,12.4-12.4,18.3-18.6c0.6-0.6,0.9-2.2,0.9-3.1c0-4.6,0-9.3,0-13.9C259.1,789.6,259.1,785.9,259.1,782.1z M285.7,828.9
 		c6.8-6.8,8.4-19.8,4-30c-4.3-9.6-14.9-17-23.2-16.7c0,0.3-0.3,0.3-0.3,0.6c0,8.7,0,17,0,25.7c0,0.6,0.3,1.5,0.9,2.2
@@ -125,7 +126,7 @@
 		C275.5,829.5,270.9,824.9,266.2,820.2z"/>
 </g>
 <g>
-	<path class="st12" d="M262.2,1020.3c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
+	<path class="st13" d="M262.2,1020.3c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
 		C299,1003.9,282.6,1020.3,262.2,1020.3z M259.1,955c-8.7-0.6-19.8,7.7-24.2,18c-4,9.6-1.9,23.5,4.6,28.8
 		c6.2-6.2,12.4-12.4,18.3-18.6c0.6-0.6,0.9-2.2,0.9-3.1c0-4.6,0-9.3,0-13.9C259.1,962.1,259.1,958.4,259.1,955z M285.7,1001.4
 		c6.8-6.8,8.4-19.8,4-30c-4.3-9.6-14.9-17-23.2-16.7c0,0.3-0.3,0.3-0.3,0.6c0,8.7,0,17,0,25.7c0,0.6,0.3,1.5,0.9,2.2
@@ -135,7 +136,7 @@
 </g>
 <g>
 	<g>
-		<path class="st19" d="M262.2,1192.8c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
+		<path class="st20" d="M262.2,1192.8c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
 			C299,1176.7,282.6,1193.1,262.2,1192.8z M259.1,1127.5c-8.7-0.6-19.8,7.7-24.2,18c-4,9.6-1.9,23.5,4.6,28.8
 			c6.2-6.2,12.4-12.4,18.3-18.6c0.6-0.6,0.9-2.2,0.9-3.1c0-4.6,0-9.3,0-13.9C259.1,1134.9,259.1,1131.2,259.1,1127.5z M285.7,1174.2
 			c6.8-6.8,8.4-19.8,4-30c-4.3-9.6-14.9-17-23.2-16.7c0,0.3-0.3,0.3-0.3,0.6c0,8.7,0,17,0,25.7c0,0.6,0.3,1.5,0.9,2.2
@@ -145,7 +146,7 @@
 	</g>
 </g>
 <g>
-	<path class="st12" d="M262.2,1365.6c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
+	<path class="st13" d="M262.2,1365.6c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
 		C299,1349.2,282.6,1365.6,262.2,1365.6z M259.1,1300.3c-8.7-0.6-19.8,7.7-24.2,18c-4,9.6-1.9,23.5,4.6,28.8
 		c6.2-6.2,12.4-12.4,18.3-18.6c0.6-0.6,0.9-2.2,0.9-3.1c0-4.6,0-9.3,0-13.9C259.1,1307.4,259.1,1303.7,259.1,1300.3z M285.7,1346.8
 		c6.8-6.8,8.4-19.8,4-30c-4.3-9.6-14.9-17-23.2-16.7c0,0.3-0.3,0.3-0.3,0.6c0,8.7,0,17,0,25.7c0,0.6,0.3,1.5,0.9,2.2
@@ -154,7 +155,7 @@
 		C275.5,1347.7,270.9,1343,266.2,1338.4z"/>
 </g>
 <g>
-	<path class="st12" d="M262.2,1538.2c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
+	<path class="st13" d="M262.2,1538.2c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
 		C299,1522.1,282.6,1538.5,262.2,1538.2z M259.1,1472.8c-8.7-0.6-19.8,7.7-24.2,18c-4,9.6-1.9,23.5,4.6,28.8
 		c6.2-6.2,12.4-12.4,18.3-18.6c0.6-0.6,0.9-2.2,0.9-3.1c0-4.6,0-9.3,0-13.9C259.1,1480.2,259.1,1476.5,259.1,1472.8z M285.7,1519.6
 		c6.8-6.8,8.4-19.8,4-30c-4.3-9.6-14.9-17-23.2-16.7c0,0.3-0.3,0.3-0.3,0.6c0,8.7,0,17,0,25.7c0,0.6,0.3,1.5,0.9,2.2
@@ -163,7 +164,7 @@
 		C275.5,1520.2,270.9,1515.6,266.2,1510.9z"/>
 </g>
 <g>
-	<path class="st12" d="M262.2,1711c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
+	<path class="st13" d="M262.2,1711c-20.1-0.3-36.9-16.7-36.5-36.9c0.3-21.1,16.7-36.5,36.9-36.5c20.4,0,36.9,16.4,36.9,36.5
 		C299,1694.6,282.6,1711,262.2,1711z M259.1,1645.6c-8.7-0.6-19.8,7.7-24.2,18c-4,9.6-1.9,23.5,4.6,28.8
 		c6.2-6.2,12.4-12.4,18.3-18.6c0.6-0.6,0.9-2.2,0.9-3.1c0-4.6,0-9.3,0-13.9C259.1,1652.8,259.1,1649,259.1,1645.6z M285.7,1692.1
 		c6.8-6.8,8.4-19.8,4-30c-4.3-9.6-14.9-17-23.2-16.7c0,0.3-0.3,0.3-0.3,0.6c0,8.7,0,17,0,25.7c0,0.6,0.3,1.5,0.9,2.2
